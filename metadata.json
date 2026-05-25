@@ -1,0 +1,6 @@
+{
+  "name": "Athenaeum",
+  "description": "A modern intellectual reading system, library builder, annotation engine, and literary knowledge network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
